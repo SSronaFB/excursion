@@ -13,7 +13,10 @@ h1 {
 }
 
 p {
+  color: Gray;
   text-align: center;
+  font-family: Verdana;
+  font-size: 21px;
 }
 
 .download {
@@ -32,4 +35,9 @@ p {
   color: Gray;
   font-family: Verdana;
   font-size: 21px;
+}
+
+.footer {
+  text-align: right;
+  color: Gray;
 }
